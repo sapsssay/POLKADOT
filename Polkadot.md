@@ -70,7 +70,7 @@ Technology: C# / C++
 </p>
 
 
-
+![alt text](https://github.com/sapsssay/POLKADOT/blob/main/project.png?raw=true)
 
 
 
