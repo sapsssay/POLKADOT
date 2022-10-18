@@ -65,9 +65,6 @@ Technology: C# / C++
 2) Correlation of a game object (3D model, location, skill ..) and NFT cards
 3) Changing the characteristics of the NFT
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1a53xjRMH3r3y58QA07Qnykyt4Yi-YhXu/view?usp=sharing" width="50%" syt height="50%" />
-</p>
 
 
 ![alt text](https://github.com/sapsssay/POLKADOT/blob/main/project.png?raw=true)
