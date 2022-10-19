@@ -1,6 +1,6 @@
 # Open Grant Proposal
 - **Project Name:** GetCrystal
-- **Team Name:** 
+- **Team Name:** GetCrystal
 - **Payment Address:** 
 
 ### Project Overview
