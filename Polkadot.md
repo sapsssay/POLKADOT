@@ -1,4 +1,4 @@
-# Overview
+# Open Grant Proposal
 - **Project Name:** GetCrystal
 - **Team Name:** 
 - **Payment Address:** 
