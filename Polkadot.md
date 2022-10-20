@@ -20,7 +20,7 @@ Application usage example:
 Creation of NFT collection:
 https://drive.google.com/file/d/1N4o9IIcdWYV8xgZAfiiArjKa4kJllJbd/view?usp=sharing
 
-![alt text](https://github.com/sapsssay/POLKADOT/blob/main/Screenshot%202022-10-20%20at%2012.55.54.png?width="500")
+![alt text](https://github.com/sapsssay/POLKADOT/blob/main/Screenshot%202022-10-20%20at%2012.55.54.png?width="100")
 
 ![alt text](https://github.com/sapsssay/POLKADOT/blob/main/Screenshot%202022-10-20%20at%2012.56.03.png?raw=true)
 
