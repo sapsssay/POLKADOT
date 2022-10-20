@@ -143,16 +143,15 @@ The video game industry is attractive for development, as the number of its user
 |           | Testing   the game, writing documentation and an example of using the developed   solution | 7   days                                                                                                                                                                                                                                                                                                        |
 |           | Result                                                                                     | The   developed DEMO game, which uses the game module and the NFT GAME API,   demonstrates all the possibilities of working with NFT that will be available   to game developers. Documentation describing the process of connecting   modules for Unity 3D and Unreal engine game engines to the NFT GAME API. |
 
-| Milestone                         | Description                       | Duration  |
-|-----------------------------------|-----------------------------------|-----------|
-| Employee   Engagement             | % Engagement of   total work time | Price     |
-| Senior Frontend Developer (React) | 0%                                | $ 0       |
-| Senior Backend Developer (NodeJS) | 20,0%                             | $ 1840    |
-| Blockchain Developer              | 10,0%                             | $ 780     |
-| Unity 3D Developer                | 30,0%                             | $ 780     |
-| Unreal Engine Developer           | 30,0%                             | $ 870     |
-| QA                                | 25%                               | $ 450     |
-|                                   | Total   Milestone Cost            | $ 4720    |
+| Employee   Engagement             | % Engagement of   total work time | Price  |
+|-----------------------------------|-----------------------------------|--------|
+| Senior Frontend Developer (React) | 0%                                | $ 0    |
+| Senior Backend Developer (NodeJS) | 20,0%                             | $ 1840 |
+| Blockchain Developer              | 10,0%                             | $ 780  |
+| Unity 3D Developer                | 30,0%                             | $ 780  |
+| Unreal Engine Developer           | 30,0%                             | $ 870  |
+| QA                                | 25%                               | $ 450  |
+|                                   | Total   Milestone Cost            | $ 4720 |
 
 
 | Project   team                      | Engagement   (months) | Rate per   month |
