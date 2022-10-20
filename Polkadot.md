@@ -74,7 +74,7 @@ Technology: C# / C++
 ## Ecosystem Fit
 The video game industry is attractive for development, as the number of its users is growing every year and already amounts to 3 billion people, and the total earnings of companies in this industry have exceeded 150 billion dollars a year. In the blockchain world, there are a small number of applications that allow integrating NFT into games, and they don’t have full-fledged functionality that allows trading in-game items through the blockchain comfortably and simply. Our project aims to solve this problem. Our app will position Polkadot at the intersection of the blockchain and the gaming industry. The project will attract new users from among the players to the Polkadot network, which can increase the capitalization of DOT. We will strive to integrate both indie games and serious projects with a large number of players into our platform.
 ## Development Roadmap
-# Milestone 1 
+### Milestone 1 
 | Milestone | Description                                                                                                                                                                                        | Duration                                                                                                                                                                                         |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1         | Analytics and   connection parsing transactions Polkadot / Moonbeam                                                                                                                                | 21 days                                                                                                                                                                                          |
@@ -96,7 +96,7 @@ The video game industry is attractive for development, as the number of its user
 
 
 
-# Milestone 2
+### Milestone 2
 | Milestone | Description                                                                                                                           | Duration                                                                                                                                                                                                              |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2         | Creation of NFT   GAME API architecture and documentation                                                                             | 14 days                                                                                                                                                                                                               |
@@ -116,7 +116,7 @@ The video game industry is attractive for development, as the number of its user
 
 
 
-# Milestone 3
+### Milestone 3
 | Milestone | Description                                                                              | Duration                                                                                                                                                                                                                                         |
 |-----------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 3         | Creation of   architecture and documentation for game modules UNITY 3D and Unreal engine | 10 days                                                                                                                                                                                                                                          |
@@ -138,7 +138,7 @@ The video game industry is attractive for development, as the number of its user
 
 
 
-# Milestone 4
+### Milestone 4
 | Milestone | Description                                                                                | Duration                                                                                                                                                                                                                                                                                                        |
 |-----------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 4         | Development of   a DEMO game using the NFT GAME API                                        | 21 days                                                                                                                                                                                                                                                                                                         |
