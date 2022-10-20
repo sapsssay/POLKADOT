@@ -37,6 +37,14 @@ https://drive.google.com/file/d/1UVU9X4YAAld84sbFig7G75j9Jbq2p_kX/view?usp=shari
 
 <img src = "https://github.com/sapsssay/POLKADOT/blob/main/Screenshot%202022-10-20%20at%2012.55.33.png" width="300" height="475">
 
+Marketplace:
+
+<img src = "https://github.com/sapsssay/POLKADOT/blob/main/Screenshot%202022-10-20%20at%2012.54.50.png" width="300" height="475">
+
+<img src = "https://github.com/sapsssay/POLKADOT/blob/main/Screenshot%202022-10-20%20at%2012.54.19.png" width="300" height="475">
+
+<img src = "https://github.com/sapsssay/POLKADOT/blob/main/Screenshot%202022-10-20%20at%2012.55.08.png" width="300" height="475">
+
 ## Project Details
 Our solution is divided into three modules, each of which is necessary for the full functioning of the system, these are the modules:
 1) Web application
