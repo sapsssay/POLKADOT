@@ -28,6 +28,8 @@ https://drive.google.com/file/d/1N4o9IIcdWYV8xgZAfiiArjKa4kJllJbd/view?usp=shari
 Creation of NFT:    
 https://drive.google.com/file/d/1QLLfluwWtbwudqjyu7wraQm-ixu0ljMy/view?usp=sharing
 
+
+<img src = "https://github.com/sapsssay/POLKADOT/blob/main/Screenshot%202022-10-20%20at%2012.56.24.png" width="450" height="375">
 Put up for auction:
 https://drive.google.com/file/d/1UVU9X4YAAld84sbFig7G75j9Jbq2p_kX/view?usp=sharing
 ## Project Details
