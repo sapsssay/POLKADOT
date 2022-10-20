@@ -22,7 +22,7 @@ https://drive.google.com/file/d/1N4o9IIcdWYV8xgZAfiiArjKa4kJllJbd/view?usp=shari
 
 <img src = "https://github.com/sapsssay/POLKADOT/blob/main/Screenshot%202022-10-20%20at%2012.55.54.png" width="300" height="475">
 
-<img src = "https://github.com/sapsssay/POLKADOT/blob/main/Screenshot%202022-10-20%20at%2012.56.03.png" width="300" height="250">
+<img src = "https://github.com/sapsssay/POLKADOT/blob/main/Screenshot%202022-10-20%20at%2012.56.03.png" width="450" height="375">
 
 
 Creation of NFT:    
