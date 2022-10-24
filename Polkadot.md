@@ -179,6 +179,7 @@ The video game industry is attractive for developers, as the number of its users
 |                                   | Total   Milestone Cost            | $ 4720 |
 
 
+### Team involved
 | Project   team                      | Engagement   (months) | Rate per   month |
 |-------------------------------------|-----------------------|------------------|
 | Senior   Frontend Developer (React) | 1,2                   | $ 4100,00        |
