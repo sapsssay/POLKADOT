@@ -1,23 +1,23 @@
 # Open Grant Proposal
-- **Project Name:** GetCrystal
-- **Team Name:** GetCrystal
+- **Project Name:** Crystal
+- **Team Name:** Crystal
 - **Payment Address:** 
 
 ### Project Overview
 
-Polkadot is a technical solution that will give game developers the opportunity to integrate NFT-related use cases into their product (app or game). For example, users will be able to change the skins of their character or open additional game locations through the purchase of NFT. On the other hand, our solution allows artists to create NFTs that will be used in games.
+Crystal is a web-platform that will provide game developers with the opportunity to integrate NFTs into their products (apps or games). For example, users will be able to change the skin of their character or open additional game locations through the purchase of an NFT. On the other hand, our solution will allow artists to create NFTs that will be used in games.
 
-Our solution will be developed on Polkadot and Moonbeam and will be researched by the web application, which will allow game developers and artists to publish NFT format that is convenient for them, specifying the parameters for the NFT, the characteristics and capabilities that it will give in a game or application. NFT can not only be created, but also exchanged, sold and auctioned via a web application.
+Our solution will be developed using Polkadot and Moonbeam and will allow game developers and artists to publish NFTs withspecified parameters, characteristics and capabilities that it will get in a game or application. NFTs can be created, exchanged and sold via oru web-platform.
 
-But still, the main element of the system is the API interface that our application will provide, as well as a set of libraries for the Unity 3D and Unreal Engine game engines, which will allow you to simply integrate interaction with this API into the game, to get a list of NFTs that the user owns, in order to provide the player with additional features that are associated with the possession of this NFT.
+The main element of the platformis the APIthat our application will provide, as well as a set of libraries for the Unity 3D and Unreal Engine game engines, which will allow game developers tointegrate NFTs into their games and to get a list of NFTs that the user owns, in order to provide the player with additional features that are associated with this NFT.
 
-We see great potential in NFT and the growth of this market, but it seems to us that NFT as an art object has already realized itself. The time is coming for NFTs that carry some kind of use cases. It seems that the potential of NFT in games has not been realized due to the fact that integrating NFT into a game requires additional competencies that game developers often do not have. But we studied their interest in the NFT market. This is how our product was born.
+We see great potential in NFT and the growth of this market, but it seems to us that most likely, the Art-NFT market is close to its limit. Now users are increasingly interested in the real benefits of owning an NFT. NFT integration into games requires additional web3 competencies from game developers. A small number of game developers have these competencies, so this market is still poorly developed, but has great potential due to the high interest in NFT technology.
 
-We really want to implement our project on Polkadot, as we believe that the idea of parachains will help make our application adapted to high loads and a large number of requests. We also see great prospects in the entire Polkadot ecosystem. New parachains, applications appear, and we want to be part of this ecosystem.
+We want to implement our project using Polkadot, as we think that the parachains technology will help make our application more resistant to heavy loads and a large number of requests. We also see great prospects in the entire Polkadot ecosystem since there are more and more applications and parachains using Polkadot technologies.
 
 Application usage example:
 
-Creation of NFT collection:
+Creating of NFT collection:
 https://drive.google.com/file/d/1N4o9IIcdWYV8xgZAfiiArjKa4kJllJbd/view?usp=sharing
 
 <img src = "https://github.com/sapsssay/POLKADOT/blob/main/Screenshot%202022-10-20%20at%2012.55.54.png" width="300" height="475">
@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1N4o9IIcdWYV8xgZAfiiArjKa4kJllJbd/view?usp=shari
 <img src = "https://github.com/sapsssay/POLKADOT/blob/main/Screenshot%202022-10-20%20at%2012.56.03.png" width="450" height="375">
 
 
-Creation of NFT:    
+Creating of NFT:    
 https://drive.google.com/file/d/1QLLfluwWtbwudqjyu7wraQm-ixu0ljMy/view?usp=sharing
 
 
@@ -46,45 +46,45 @@ Marketplace:
 <img src = "https://github.com/sapsssay/POLKADOT/blob/main/Screenshot%202022-10-20%20at%2012.55.08.png" width="300" height="475">
 
 ## Project Details
-Our solution is divided into three modules, each of which is necessary for the full functioning of the system, these are the modules:
+Our solution is divided into three modules,that are necessary for proper functioning of the platform:
 1) Web application
-2) API interface for the game
-3) Libraries for game engines Unity 3D and Unreal engine.
+2) API interface for apps (including games)
+3) Libraries for game engines Unity 3D and Unreal engine
 
 ### Web application
 
 Technology: ReactJS / Solidity
 
-0) Authorization via web3 wallet
-1) NFT download
-2) Loading the NFT group
-3) Loading NFT with different options
-4) Change NFT parameters via API
-5) Create an access key to get a list of NFT account
-6) Connecting a public wallet to an account
-7) Generation of a unique account key
+1.	Authorization via web3 wallet connection
+2.	NFT creating and upload
+3.	NFT collections creating and upload
+4.	NFT parameters creation
+5.	Changing NFT parameters via API
+6.	Creating an access key to get a list of user’s NFTs 
+7.	Connecting a public wallet to an account
+8.	Generating of a unique account key
+
 
 ### Game API
 
-The module that will be used for messaging between the game and the web application with NFTs connected to it.
+The module that will be used for connection between a game and the web application.
 
 Technology: JS / Rest API
 
-0) Authorization by unique account key
-1) Obtaining a list of NFTs owned by the user by his public key
-2) Changing the characteristics of the NFT (For example, reducing the durability of the subject)
+1.	Authorization by a account key
+2.	Obtaining a list of user’s NFTs through his public key
+3.	Changing the parameters of an NFT by the author of the collection (for example, when it is necessary to update the parameters of an item in the game) 
+
 
 ### Libraries for game engines Unity 3D and Unreal engine
-
-This module will allow you to easily integrate interaction with a web application, and, accordingly, with NFT, in order to give game developers the opportunity to use NFT in their projects.
+This will allow you to easily integrate interaction with a web application and  with NFTs in order to give game developers the opportunity to use the NFT technology in their projects.
 
 Technology: C# / C++
 
-0) Authorization by unique account key
-1) Getting a list of NFTs owned by the user
-2) Correlation of a game object (3D model, location, skill ..) and NFT cards
-3) Changing the characteristics of the NFT
-
+1.	Authorization by unique account key
+2.	Getting a list of NFTs owned by the user
+3.	Linking game objects (3D model, location, skill ..) toNFTs
+4.	Changing parametersof NFTs automatically or semi-automatically
 
 
 ![alt text](https://github.com/sapsssay/POLKADOT/blob/main/project.png?raw=true)
@@ -92,17 +92,17 @@ Technology: C# / C++
 
 
 ## Ecosystem Fit
-The video game industry is attractive for development, as the number of its users is growing every year and already amounts to 3 billion people, and the total earnings of companies in this industry have exceeded 150 billion dollars a year. In the blockchain world, there are a small number of applications that allow integrating NFT into games, and they don’t have full-fledged functionality that allows trading in-game items through the blockchain comfortably and simply. Our project aims to solve this problem. Our app will position Polkadot at the intersection of the blockchain and the gaming industry. The project will attract new users from among the players to the Polkadot network, which can increase the capitalization of DOT. We will strive to integrate both indie games and serious projects with a large number of players into our platform.
+The video game industry is attractive for developers, as the number of its users is growing every year and now amounts to 3 billion people, and the total earnings of companies in this industry have exceeded 150 billion dollars a year. In the blockchain world, there are a small number of applications that allow integrating NFT into games, and they don’t have full-fledged functionality that allows trading in-game items through the blockchain comfortably and simply. Our project aims to solve this problem. Our app will position Polkadot at the intersection of the blockchain and the gaming industry. The project will attract new users from among the players to the Polkadot network, which can increase the capitalization of DOT. We will strive to integrate both indie games and serious projects with a large number of players into our platform.
 ## Development Roadmap
 ### Milestone 1 
 | Description                                                                                                                                                                                      | Duration                                                                                                                                                                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Analytics and connection parsing transactions Polkadot /   Moonbeam                                                                                                                              | 21   days                                                                                                                                                                                        |
-| Development and publication of NFT and EVM smart contracts on   the blockchain. Integration of RPC methods for working with smart contracts.   Connecting RPC Methods to the Getcrystal Platform | 14   days                                                                                                                                                                                        |
-| Connecting a WEB3 wallet and IPFS for NFT storage                                                                                                                                                | 7   days                                                                                                                                                                                         |
-| Create an account and publish NFT and NFT collections                                                                                                                                            | 7   days                                                                                                                                                                                         |
-| NFT Placement Testing, Selling, Transferring, Buying and   Auctioning                                                                                                                            | 7   days                                                                                                                                                                                         |
-| Result                                                                                                                                                                                           | NFT   marketplace launched on Polkadot / Moonbeam with full functionality for   buying/selling/transferring/auctioning NFTs. Ready platform architecture to   continue work on the NFT GAME API. |
+| Connecting and parsing transactions of Polkadot / Moonbeam /   Moonbeam                                                                                                                              | 21   days                                                                                                                                                                                        |
+| Developing and uploading of smart contracts (EVM) on the blockchain. Integrating of RPC methods for working with smart contracts. Connecting RPC methods to the Crystal Platform | 14   days                                                                                                                                                                                        |
+| Connecting a WEB3 wallet and IPFS for NFT storage	|                                                                                                                                               | 7   days                                                                                                                                                                                         |
+| Creating an account and publishing NFTs and NFT collections                                                                                                                                           | 7   days                                                                                                                                                                                         |
+| NFT transfer and trading funtions                                                                                                                           | 7   days                                                                                                                                                                                         |
+| Result                                                                                                                                                                                           | NFT marketplace launched on Polkadot / Moonbeam with full functionality for trading.  |
 
 
 | Employee   Engagement             | % Engagement of   total work time | Price   |
