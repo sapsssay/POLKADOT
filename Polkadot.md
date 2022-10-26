@@ -46,7 +46,7 @@ Marketplace:
 <img src = "https://github.com/sapsssay/POLKADOT/blob/main/Screenshot%202022-10-20%20at%2012.55.08.png" width="300" height="475">
 
 ## Project Details
-Our product is consist of three modules, that are necessary for proper work:
+Our product is consist of three modules that are necessary for proper work:
 1) Web application
 2) API interface for apps (including games)
 3) Libraries for game engines Unity 3D and Unreal engine
