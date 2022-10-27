@@ -87,7 +87,7 @@ Technology: C# / C++
 4.	Changing parametersof NFTs automatically or semi-automatically
 
 
-![alt text](https://github.com/sapsssay/POLKADOT/blob/main/project.png?raw=true)
+![alt text](https://github.com/sapsssay/POLKADOT/blob/main/4c87195e-083c-474f-93bf-1ec0ef02e65b.png?raw=true)
 
 
 
