@@ -5,13 +5,13 @@
 
 ### Project Overview
 
-Crystal is a web-platform that will provide game developers with the opportunity to integrate NFTs into their products (apps or games). For example, users will be able to change the skin of their character or open additional game locations through the purchase of an NFT. On the other hand, our solution will allow artists to create NFTs that will be used in games.
+Crystal is a web-platform that will provide game developers with the opportunity to integrate NFTs into their products (apps or games). For example, users will be able to change the skin of their character or open additional game locations through the purchase of an NFT. On the other hand, our product will allow artists to create NFTs that will be used in games.
 
-Our solution will be developed using Polkadot and Moonbeam and will allow game developers and artists to publish NFTs withspecified parameters, characteristics and capabilities that it will get in a game or application. NFTs can be created, exchanged and sold via oru web-platform.
+Our product will be developed using Polkadot and Moonbeam and will allow game developers and artists to publish NFTs withspecified parameters, characteristics and capabilities that it will get in a game or application. NFTs can be created, exchanged and sold via oru web-platform.
 
 The main element of the platformis the APIthat our application will provide, as well as a set of libraries for the Unity 3D and Unreal Engine game engines, which will allow game developers tointegrate NFTs into their games and to get a list of NFTs that the user owns, in order to provide the player with additional features that are associated with this NFT.
 
-We see great potential in NFT and the growth of this market, but it seems to us that most likely, the Art-NFT market is close to its limit. Now users are increasingly interested in the real benefits of owning an NFT. NFT integration into games requires additional web3 competencies from game developers. A small number of game developers have these competencies, so this market is still poorly developed, but has great potential due to the high interest in NFT technology.
+We see great potential in the NFT technology and the growth of this market, but it seems to us that most likely, the Art-NFT market is close to its limit. Now users are increasingly interested in the real benefits of owning an NFT. NFT integration into games requires additional web3 competencies from game developers. A small number of game developers have these competencies, so this market is still poorly developed, but has great potential due to the high interest in NFT technology.
 
 We want to implement our project using Polkadot, as we think that the parachains technology will help make our application more resistant to heavy loads and a large number of requests. We also see great prospects in the entire Polkadot ecosystem since there are more and more applications and parachains using Polkadot technologies.
 
@@ -46,7 +46,7 @@ Marketplace:
 <img src = "https://github.com/sapsssay/POLKADOT/blob/main/Screenshot%202022-10-20%20at%2012.55.08.png" width="300" height="475">
 
 ## Project Details
-Our solution is divided into three modules,that are necessary for proper functioning of the platform:
+Our product is consist of three modules that are necessary for proper work:
 1) Web application
 2) API interface for apps (including games)
 3) Libraries for game engines Unity 3D and Unreal engine
@@ -76,14 +76,14 @@ Technology: JS / Rest API
 3.	Changing the parameters of an NFT by the author of the collection (for example, when it is necessary to update the parameters of an item in the game) 
 
 
-### Libraries for game engines Unity 3D and Unreal engine
+### Libraries for game engines (Unity 3D and Unreal engine)
 This will allow you to easily integrate interaction with a web application and  with NFTs in order to give game developers the opportunity to use the NFT technology in their projects.
 
 Technology: C# / C++
 
 1.	Authorization by unique account key
 2.	Getting a list of NFTs owned by the user
-3.	Linking game objects (3D model, location, skill ..) toNFTs
+3.	Linking game objects (3D model, location, skill, etc.) to NFTs
 4.	Changing parametersof NFTs automatically or semi-automatically
 
 
@@ -165,7 +165,7 @@ The video game industry is attractive for developers, as the number of its users
 | Development   of a DEMO game using the NFT GAME API                                      | 21 days                                                                                                                                                                                                                                                                                                         |
 | NFT GAME API connection                                                                  | 3   days                                                                                                                                                                                                                                                                                                        |
 | Connecting the Unity 3D module                                                           | 4   days                                                                                                                                                                                                                                                                                                        |
-| Testing the game, writing documentation and an example of using the developed solution | 7   days                                                                                                                                                                                                                                                                                                        |
+| Testing the game, writing documentation and an example of using the developed product | 7   days                                                                                                                                                                                                                                                                                                        |
 | Result                                                                                   | The developed DEMO GAME, which uses the game module and the NFT GAME API, demonstrates all the possibilities of working with NFT that will be available to game developers. Documentation describing the process of connecting modules for Unity 3D and Unreal engine game engines to the NFT GAME API. |
 
 | Employee   Engagement             | % Engagement of   total work time | Price  |
